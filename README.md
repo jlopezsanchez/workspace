@@ -1,3 +1,3 @@
 # workspace
-*Prueba desde windows
+En este repositorio iré subiendo las prácticas de clase
 
